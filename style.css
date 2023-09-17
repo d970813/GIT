@@ -1,0 +1,38 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+color: lightgreen;
+text-decoration: line-through;
+text-transform: capitalize;
+}
+
+#status
+{
+font-size: 18px;
+}
+body{
+    background-size: cover;
+background-position: center;
+}
+canvas{
+    box-shadow: inset 5em 1em rgb(213, 130, 255);
+border-radius: 10px;
+}
+h1{
+    font-family: 'Barriecito', cursive;
+    box-shadow: 12px 12px 2px 1px rgba(180, 180, 255, 0.505);
+    text-decoration: overline;
+}
+h3{
+    background-image: url('Eyes_DOGGY.png');
+    
+    height:200;
+    width: 400;
+    color:rgb(198, 187, 187);
+    text-decoration: overline;
+    
+    
+}
